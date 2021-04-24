@@ -18,7 +18,7 @@ This is an effect useful nowadays in several websites! This is my version of Tra
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](screenshot.png)
 
 ### Links
 
